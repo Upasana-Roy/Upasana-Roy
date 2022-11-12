@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋. I am Upasana Roy, an aspiring Full-stack Web Developer.
+🌱 I’m currently learning Backend Development.
 <!--
 **Upasana-Roy/Upasana-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
