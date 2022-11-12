@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Upasana-Roy)](https://git.io/streak-stats)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upasana-Roy&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Roy&layout=compact)](https://github.com/Upasana-Roy/github-readme-stats)
